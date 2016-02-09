@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "auluspersiusfla01passgoog_0095.png"; bbox 0 0 2842 4759; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1211 1262 1230 1283">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1211 1262 1230 1283">
+     <span class='ocr_line' id='line_1_1' title="bbox 1211 1262 1230 1283; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1211 1262 1230 1283; x_wconf 75' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 979 1335 2061 1493">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 979 1335 2061 1493">
+     <span class='ocr_line' id='line_1_2' title="bbox 979 1335 2061 1493; baseline -0.008 -24"><span class='ocrx_word' id='word_1_2' title='bbox 979 1335 1473 1493; x_wconf 29' lang='lat' dir='ltr'>“Ueberpf</span> <span class='ocrx_word' id='word_1_3' title='bbox 1755 1374 1759 1379; x_wconf 26' lang='lat'><em>⁹</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2050 1364 2061 1443; x_wconf 38' lang='lat' dir='ltr'>f</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 146 1626 2391 2023">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 146 1626 2391 2023">
+     <span class='ocr_line' id='line_1_3' title="bbox 146 1626 2391 1773; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 146 1676 362 1773; x_wconf 85' lang='lat' dir='ltr'>das</span> <span class='ocrx_word' id='word_1_6' title='bbox 472 1667 904 1768; x_wconf 64' lang='lat' dir='ltr'>Leben</span> <span class='ocrx_word' id='word_1_7' title='bbox 1005 1628 1250 1769; x_wconf 61' lang='lat' dir='ltr'>find</span> <span class='ocrx_word' id='word_1_8' title='bbox 1319 1657 1550 1754; x_wconf 80' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_9' title='bbox 1657 1655 2291 1757; x_wconf 81' lang='lat' dir='ltr'><strong>Schriften</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2386 1626 2391 1633; x_wconf 33' lang='lat'><em>¹</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1123 1890 1316 2023; baseline -0.005 0"><span class='ocrx_word' id='word_1_11' title='bbox 1123 1890 1316 2023; x_wconf 43' lang='lat' dir='ltr'>a&#39;ess</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 509 2212 1937 2324">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 509 2212 1937 2324">
+     <span class='ocr_line' id='line_1_5' title="bbox 509 2212 1937 2324; baseline -0.008 -19"><span class='ocrx_word' id='word_1_12' title='bbox 509 2221 843 2317; x_wconf 14' lang='lat' dir='ltr'><strong>Aulus&lt;</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 947 2212 1365 2317; x_wconf 78' lang='lat' dir='ltr'>Persius</span> <span class='ocrx_word' id='word_1_14' title='bbox 1476 2212 1937 2324; x_wconf 66' lang='lat' dir='ltr'><strong>Flaccus‘.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 911 2514 1532 2541">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 911 2514 1532 2541">
+     <span class='ocr_line' id='line_1_6' title="bbox 911 2514 1532 2541; baseline 0 2218"><span class='ocrx_word' id='word_1_15' title='bbox 911 2514 1532 2541; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
